@@ -1,4 +1,4 @@
-# Project_1_Group_5
+# Project_1_Group_3
 Project 1 Collaboration
 
 ## - Details of our data set - 
@@ -11,6 +11,7 @@ Project 1 Collaboration
 ### * Final Data Set:
  
   - Removed all rows before 01/21/1979 as the data did not contain over/under predictions until Super Bowl XIII
+    
 
 ### * Created New Columns:
 
@@ -30,9 +31,25 @@ Project 1 Collaboration
 ![Screenshot 2023-11-05 140224](https://github.com/davisdw/Project_1_Group_5/assets/140672220/8e152e1f-35b7-42cf-9fde-9be3e904e828)
 
   A correlation coefficient of 0.3 indicates a moderate positive relationship
+  
 
 ## How do different weather conditions impact the total score and accuracy of the over/under line prediction?
 
 ![Screenshot 2023-11-05 141444](https://github.com/davisdw/Project_1_Group_5/assets/140672220/23802492-e77a-41fa-b68e-0883aedb2e08)
 
 ![Screenshot 2023-11-05 141548](https://github.com/davisdw/Project_1_Group_5/assets/140672220/09d681d8-916e-4aca-9ba4-73f4b046ba24)
+
+
+## How does the humidity levels during a game impact the total score?
+
+![Screenshot 2023-11-06 181438](https://github.com/davisdw/Project_1_Group_5/assets/140672220/dfe1a110-82f3-4fa7-b904-b0e0c43e832e)
+
+
+## How accurate is the over/under line based on the humidity level?
+
+![Screenshot 2023-11-05 140224](https://github.com/davisdw/Project_1_Group_5/assets/140672220/ea46011c-ed7b-47dc-8a73-9367191d1c0f)
+
+
+## How accurate are bookmakers at predicting Super Bowl winners?
+
+![Screenshot 2023-11-06 181830](https://github.com/davisdw/Project_1_Group_5/assets/140672220/c461aa02-af1d-4e9d-ba45-9675499c82d6)
