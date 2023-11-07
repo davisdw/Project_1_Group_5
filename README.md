@@ -53,3 +53,12 @@ Project 1 Collaboration
 ## How accurate are bookmakers at predicting Super Bowl winners?
 
 ![Screenshot 2023-11-06 181830](https://github.com/davisdw/Project_1_Group_5/assets/140672220/c461aa02-af1d-4e9d-ba45-9675499c82d6)
+
+# Conclusions
+
+  - The over/under line was the most accurate looking at the 2013-2022 decade of football and the least accurate during the 1993-2002 decade of football
+  - The over/under line has become more accurate with time. This makes sense as they have more data to predict the over/under line and ensure its accuracy.
+  - The correlation coefficient was fairly consistent around .3 with the exception of the 1993-2002 decade where it was .26
+
+  - The only variables that we found to show a statistically significant relationship were the temperature and the total score. So of the variables we looked at… temperature seems to have the highest impact on the total score of the game
+  - All other variables we tested came up not statistically significant, meaning they had little to no impact on the total score of a game or the accuracy of the over/under line prediction.
